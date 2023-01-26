@@ -1,8 +1,6 @@
 
 # test-auth
 
-Тестовое задание на позицию Junior Go разработчик. 2 "наносервиса" :D.
-
 
 
 
@@ -11,13 +9,13 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/Levap123/test-auth
+  git clone https://github.com/Levap123/go-auth
 ```
 
 Go to the project directory
 
 ```bash
-  cd test-auth
+  cd go-auth
 ```
 
 Start the server
